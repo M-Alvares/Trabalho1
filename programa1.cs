@@ -1,5 +1,5 @@
 ﻿using System;
-// Alteração realizada por Mariana Alvares
+// Outra alteração realizada por Mariana Alvares
 public class ClasseExemplo
 {
     public static void Main()
